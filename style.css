@@ -1,0 +1,15 @@
+/* For the width display, ignore this */
+
+.width-container {
+  display: none;
+}
+
+.display-width {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #e6e6e6;
+  padding: 0.3em;
+  font-size: 0.85em;
+}
